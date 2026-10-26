@@ -1,0 +1,225 @@
+Model,Feature,Importance,Importance_Type
+Linear regression,GENDER,0.011386304195502234,Absolute coefficient
+Linear regression,INTERNET,0.5143367387112665,Absolute coefficient
+Linear regression,TV,0.055315546700632545,Absolute coefficient
+Linear regression,COMPUTER,0.1488240776960108,Absolute coefficient
+Linear regression,WASHING_MCH,0.14774754506316667,Absolute coefficient
+Linear regression,MIC_OVEN,0.4300320031307834,Absolute coefficient
+Linear regression,CAR,0.5884727482634968,Absolute coefficient
+Linear regression,DVD,0.11399541876515695,Absolute coefficient
+Linear regression,FRESH,0.07681184260142748,Absolute coefficient
+Linear regression,PHONE,0.05273915689392078,Absolute coefficient
+Linear regression,MOBILE,0.1192934758588349,Absolute coefficient
+Linear regression,SCHOOL_NAT,0.06409986320103522,Absolute coefficient
+Linear regression,MAT_S11,2.3680317019294295,Absolute coefficient
+Linear regression,CR_S11,2.9297263928526003,Absolute coefficient
+Linear regression,CC_S11,2.7202807126134307,Absolute coefficient
+Linear regression,BIO_S11,3.0337777309614764,Absolute coefficient
+Linear regression,ENG_S11,4.953504565321679,Absolute coefficient
+Linear regression,SEL,0.6442207267733117,Absolute coefficient
+Linear regression,SEL_IHE,1.933904202056562,Absolute coefficient
+Linear regression,RESOURCE_SCORE,0.03591434444493642,Absolute coefficient
+Linear regression,S11_AVG,3.9351115023368948,Absolute coefficient
+Linear regression,EDU_FATHER_ENC,0.18288368037143143,Absolute coefficient
+Linear regression,EDU_MOTHER_ENC,0.19882919822128242,Absolute coefficient
+Linear regression,PARENT_EDU_INDEX,0.001499452588941741,Absolute coefficient
+Linear regression,PARENT_EDU_GAP,0.0947975016882121,Absolute coefficient
+Linear regression,OCC_FATHER_ENC,0.3254178022657098,Absolute coefficient
+Linear regression,OCC_MOTHER_ENC,0.012871698272875098,Absolute coefficient
+Linear regression,PARENT_OCC_INDEX,0.18787374870206722,Absolute coefficient
+Linear regression,SCHOOL_TYPE_Not apply,0.05899185894634704,Absolute coefficient
+Linear regression,SCHOOL_TYPE_TECHNICAL,0.13138366502893184,Absolute coefficient
+Linear regression,SCHOOL_TYPE_TECHNICAL/ACADEMIC,0.22732855129080537,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_AUTOMATION ENGINEERING,0.004136104549697928,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_CATASTRAL ENGINEERING AND GEODESY,0.1295295066123623,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_CHEMICAL ENGINEERING,0.8590089681748396,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_CIVIL CONSTRUCTIONS,0.11732423880379117,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_CIVIL ENGINEERING,0.5377729302629846,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_CONTROL ENGINEERING,0.14905463756120993,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING,0.3299132391539163,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING AND TELECOMMUNICATIONS,0.0371320308475791,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_ELECTROMECHANICAL ENGINEERING,0.21255737869047306,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_ELECTRONIC ENGINEERING,0.11638432333461979,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_INDUSTRIAL AUTOMATIC ENGINEERING,0.24978133777795253,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_INDUSTRIAL CONTROL AND AUTOMATION ENGINEERING,0.14190017956062645,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_INDUSTRIAL ENGINEERING,0.20851760293370403,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_MECHANICAL ENGINEERING,0.1343984344960041,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_MECHATRONICS ENGINEERING,0.014035237156968638,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_PRODUCTION ENGINEERING,0.2874229813203225,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_PRODUCTIVITY AND QUALITY ENGINEERING,0.15568274729319473,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_TEXTILE ENGINEERING,0.1033701558781207,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_TOPOGRAPHIC ENGINEERY,0.4065733197327768,Absolute coefficient
+Linear regression,ACADEMIC_PROGRAM_TRANSPORTATION AND ROAD ENGINEERING,0.36872514945489243,Absolute coefficient
+Linear regression,STRATUM_ENC,0.7033065344967571,Absolute coefficient
+Linear regression,SISBEN_ENC,0.26239624752085877,Absolute coefficient
+Linear regression,REVENUE_ENC,0.037274415573166464,Absolute coefficient
+Linear regression,JOB_ENC,0.02387811919749247,Absolute coefficient
+Linear regression,PEOPLE_HOUSE_ENC,0.1307964599291515,Absolute coefficient
+Decision tree,GENDER,0.0,Feature importance
+Decision tree,INTERNET,0.0,Feature importance
+Decision tree,TV,0.0,Feature importance
+Decision tree,COMPUTER,0.0,Feature importance
+Decision tree,WASHING_MCH,0.0,Feature importance
+Decision tree,MIC_OVEN,0.0,Feature importance
+Decision tree,CAR,0.0,Feature importance
+Decision tree,DVD,0.0,Feature importance
+Decision tree,FRESH,0.0,Feature importance
+Decision tree,PHONE,0.0,Feature importance
+Decision tree,MOBILE,0.0,Feature importance
+Decision tree,SCHOOL_NAT,0.0,Feature importance
+Decision tree,MAT_S11,0.0023357507039158724,Feature importance
+Decision tree,CR_S11,0.0014487025406928447,Feature importance
+Decision tree,CC_S11,0.001324538378900917,Feature importance
+Decision tree,BIO_S11,0.0,Feature importance
+Decision tree,ENG_S11,0.003003358059699909,Feature importance
+Decision tree,SEL,0.0,Feature importance
+Decision tree,SEL_IHE,0.009205976958274877,Feature importance
+Decision tree,RESOURCE_SCORE,0.0,Feature importance
+Decision tree,S11_AVG,0.9815933692383041,Feature importance
+Decision tree,EDU_FATHER_ENC,0.0,Feature importance
+Decision tree,EDU_MOTHER_ENC,0.0,Feature importance
+Decision tree,PARENT_EDU_INDEX,0.0,Feature importance
+Decision tree,PARENT_EDU_GAP,0.0,Feature importance
+Decision tree,OCC_FATHER_ENC,0.0,Feature importance
+Decision tree,OCC_MOTHER_ENC,0.000645687916058416,Feature importance
+Decision tree,PARENT_OCC_INDEX,0.0,Feature importance
+Decision tree,SCHOOL_TYPE_Not apply,0.0,Feature importance
+Decision tree,SCHOOL_TYPE_TECHNICAL,0.0,Feature importance
+Decision tree,SCHOOL_TYPE_TECHNICAL/ACADEMIC,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_AUTOMATION ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_CATASTRAL ENGINEERING AND GEODESY,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_CHEMICAL ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_CIVIL CONSTRUCTIONS,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_CIVIL ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_CONTROL ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING AND TELECOMMUNICATIONS,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_ELECTROMECHANICAL ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_ELECTRONIC ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_INDUSTRIAL AUTOMATIC ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_INDUSTRIAL CONTROL AND AUTOMATION ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_INDUSTRIAL ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_MECHANICAL ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_MECHATRONICS ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_PRODUCTION ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_PRODUCTIVITY AND QUALITY ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_TEXTILE ENGINEERING,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_TOPOGRAPHIC ENGINEERY,0.0,Feature importance
+Decision tree,ACADEMIC_PROGRAM_TRANSPORTATION AND ROAD ENGINEERING,0.0,Feature importance
+Decision tree,STRATUM_ENC,0.0,Feature importance
+Decision tree,SISBEN_ENC,0.0,Feature importance
+Decision tree,REVENUE_ENC,0.0,Feature importance
+Decision tree,JOB_ENC,0.0,Feature importance
+Decision tree,PEOPLE_HOUSE_ENC,0.00044261620415299047,Feature importance
+Random forest,GENDER,0.0003834396434701921,Feature importance
+Random forest,INTERNET,0.0001790038236247055,Feature importance
+Random forest,TV,0.00021281356648797953,Feature importance
+Random forest,COMPUTER,0.00028885271894362136,Feature importance
+Random forest,WASHING_MCH,0.000178477147303665,Feature importance
+Random forest,MIC_OVEN,0.0005056328960138819,Feature importance
+Random forest,CAR,0.0002804619471916602,Feature importance
+Random forest,DVD,0.00034865286938629724,Feature importance
+Random forest,FRESH,0.0,Feature importance
+Random forest,PHONE,0.00010971356680974096,Feature importance
+Random forest,MOBILE,0.00027595870043256604,Feature importance
+Random forest,SCHOOL_NAT,0.00015156478859149633,Feature importance
+Random forest,MAT_S11,0.003770437882441542,Feature importance
+Random forest,CR_S11,0.003315146139627676,Feature importance
+Random forest,CC_S11,0.0018725570115365642,Feature importance
+Random forest,BIO_S11,0.00310927167372447,Feature importance
+Random forest,ENG_S11,0.007032194479040774,Feature importance
+Random forest,SEL,0.0005363399408415439,Feature importance
+Random forest,SEL_IHE,0.00850599148605348,Feature importance
+Random forest,RESOURCE_SCORE,0.0007130948742359291,Feature importance
+Random forest,S11_AVG,0.9555517939168144,Feature importance
+Random forest,EDU_FATHER_ENC,0.0008488031715892471,Feature importance
+Random forest,EDU_MOTHER_ENC,0.0009190757922431211,Feature importance
+Random forest,PARENT_EDU_INDEX,0.001152437442526466,Feature importance
+Random forest,PARENT_EDU_GAP,0.0009575836379317995,Feature importance
+Random forest,OCC_FATHER_ENC,0.001257663132268051,Feature importance
+Random forest,OCC_MOTHER_ENC,0.0008161297696777277,Feature importance
+Random forest,PARENT_OCC_INDEX,0.0011722805381036584,Feature importance
+Random forest,SCHOOL_TYPE_Not apply,0.0,Feature importance
+Random forest,SCHOOL_TYPE_TECHNICAL,5.534781362747468e-05,Feature importance
+Random forest,SCHOOL_TYPE_TECHNICAL/ACADEMIC,0.00021829667950484512,Feature importance
+Random forest,ACADEMIC_PROGRAM_AUTOMATION ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_CATASTRAL ENGINEERING AND GEODESY,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_CHEMICAL ENGINEERING,0.00031570782765013113,Feature importance
+Random forest,ACADEMIC_PROGRAM_CIVIL CONSTRUCTIONS,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_CIVIL ENGINEERING,0.0002536541186037883,Feature importance
+Random forest,ACADEMIC_PROGRAM_CONTROL ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING,3.576070386056402e-05,Feature importance
+Random forest,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING AND TELECOMMUNICATIONS,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_ELECTROMECHANICAL ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_ELECTRONIC ENGINEERING,5.164341278474134e-05,Feature importance
+Random forest,ACADEMIC_PROGRAM_INDUSTRIAL AUTOMATIC ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_INDUSTRIAL CONTROL AND AUTOMATION ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_INDUSTRIAL ENGINEERING,0.00045351422499706446,Feature importance
+Random forest,ACADEMIC_PROGRAM_MECHANICAL ENGINEERING,0.00025631922219035896,Feature importance
+Random forest,ACADEMIC_PROGRAM_MECHATRONICS ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_PRODUCTION ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_PRODUCTIVITY AND QUALITY ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_TEXTILE ENGINEERING,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_TOPOGRAPHIC ENGINEERY,0.0,Feature importance
+Random forest,ACADEMIC_PROGRAM_TRANSPORTATION AND ROAD ENGINEERING,0.0,Feature importance
+Random forest,STRATUM_ENC,0.0009803065162062217,Feature importance
+Random forest,SISBEN_ENC,0.0005544090164172468,Feature importance
+Random forest,REVENUE_ENC,0.0013731819085809295,Feature importance
+Random forest,JOB_ENC,2.9963377030386445e-05,Feature importance
+Random forest,PEOPLE_HOUSE_ENC,0.0009765226216338418,Feature importance
+XGBoost,GENDER,0.009898701682686806,Feature importance
+XGBoost,INTERNET,0.004874775186181068,Feature importance
+XGBoost,TV,0.0009402917348779738,Feature importance
+XGBoost,COMPUTER,0.0,Feature importance
+XGBoost,WASHING_MCH,0.0,Feature importance
+XGBoost,MIC_OVEN,0.010577413253486156,Feature importance
+XGBoost,CAR,0.014283793978393078,Feature importance
+XGBoost,DVD,0.007831769995391369,Feature importance
+XGBoost,FRESH,0.0,Feature importance
+XGBoost,PHONE,0.0,Feature importance
+XGBoost,MOBILE,0.008661436848342419,Feature importance
+XGBoost,SCHOOL_NAT,0.0,Feature importance
+XGBoost,MAT_S11,0.016349248588085175,Feature importance
+XGBoost,CR_S11,0.014602648094296455,Feature importance
+XGBoost,CC_S11,0.01277623325586319,Feature importance
+XGBoost,BIO_S11,0.020215868949890137,Feature importance
+XGBoost,ENG_S11,0.032004717737436295,Feature importance
+XGBoost,SEL,0.010943302884697914,Feature importance
+XGBoost,SEL_IHE,0.018810054287314415,Feature importance
+XGBoost,RESOURCE_SCORE,0.009199433028697968,Feature importance
+XGBoost,S11_AVG,0.6047535538673401,Feature importance
+XGBoost,EDU_FATHER_ENC,0.004112903960049152,Feature importance
+XGBoost,EDU_MOTHER_ENC,0.008447596803307533,Feature importance
+XGBoost,PARENT_EDU_INDEX,0.010884810239076614,Feature importance
+XGBoost,PARENT_EDU_GAP,0.012511275708675385,Feature importance
+XGBoost,OCC_FATHER_ENC,0.009348061867058277,Feature importance
+XGBoost,OCC_MOTHER_ENC,0.007203905377537012,Feature importance
+XGBoost,PARENT_OCC_INDEX,0.010699705220758915,Feature importance
+XGBoost,SCHOOL_TYPE_Not apply,0.0,Feature importance
+XGBoost,SCHOOL_TYPE_TECHNICAL,0.010592380538582802,Feature importance
+XGBoost,SCHOOL_TYPE_TECHNICAL/ACADEMIC,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_AUTOMATION ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_CATASTRAL ENGINEERING AND GEODESY,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_CHEMICAL ENGINEERING,0.016049044206738472,Feature importance
+XGBoost,ACADEMIC_PROGRAM_CIVIL CONSTRUCTIONS,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_CIVIL ENGINEERING,0.01048075407743454,Feature importance
+XGBoost,ACADEMIC_PROGRAM_CONTROL ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING,0.014636135660111904,Feature importance
+XGBoost,ACADEMIC_PROGRAM_ELECTRIC ENGINEERING AND TELECOMMUNICATIONS,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_ELECTROMECHANICAL ENGINEERING,0.01128403004258871,Feature importance
+XGBoost,ACADEMIC_PROGRAM_ELECTRONIC ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_INDUSTRIAL AUTOMATIC ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_INDUSTRIAL CONTROL AND AUTOMATION ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_INDUSTRIAL ENGINEERING,0.007338603027164936,Feature importance
+XGBoost,ACADEMIC_PROGRAM_MECHANICAL ENGINEERING,0.008414670825004578,Feature importance
+XGBoost,ACADEMIC_PROGRAM_MECHATRONICS ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_PRODUCTION ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_PRODUCTIVITY AND QUALITY ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_TEXTILE ENGINEERING,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_TOPOGRAPHIC ENGINEERY,0.0,Feature importance
+XGBoost,ACADEMIC_PROGRAM_TRANSPORTATION AND ROAD ENGINEERING,0.0,Feature importance
+XGBoost,STRATUM_ENC,0.009970900602638721,Feature importance
+XGBoost,SISBEN_ENC,0.012565887533128262,Feature importance
+XGBoost,REVENUE_ENC,0.012438180856406689,Feature importance
+XGBoost,JOB_ENC,0.009401217103004456,Feature importance
+XGBoost,PEOPLE_HOUSE_ENC,0.016896646469831467,Feature importance
